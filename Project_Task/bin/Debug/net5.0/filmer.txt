@@ -1,0 +1,32 @@
+Test	Drama	1999	
+Ett	Skräck	1997	
+FilmEtt	Action	2005	
+FilmTvå	Sci-fi	2022	
+FilmTre	Fantasy	2001	
+Film1	Skräck	1990	
+Film2	Action	1994	
+Film3	Fantasy	2015	
+Test	Skräck	1998	
+En film	Skräck	1990	
+Två film	Fantasy	2023	
+Hjälp	Skräck	1995	
+Nej	Fantasy	2005	
+Hej	Sci-fi	2008	
+Hola	Drama	2001	
+Hjälp	Horror	1964	
+HJÄLP	Action	1989	
+Testar1	Skräck	1990	
+Testar2	Skräck	1992	
+Testar3	Skräck	1993	
+Testar4	Skräck	1994	
+Testar5	Skräck	1995	
+Testar6	Skräck	1996	
+Testar7	Skräck	1997	
+Testar8	Skräck	1998	
+TEST1	Action	1990	
+TEST2	Action	1991	
+TEST3	Action	1992	
+TEST4	Action	1993	skräck	penis	2000	
+g	g	2454	
+2	4	1994	
+2	3	3	
